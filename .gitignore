@@ -1,0 +1,32 @@
+# Ignore the pose_images directory where webcam captures are saved
+pose_images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
